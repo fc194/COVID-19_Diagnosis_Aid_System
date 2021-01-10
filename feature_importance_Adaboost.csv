@@ -1,0 +1,47 @@
+,Weight
+TEM,0.09375
+PLT,0.09375
+MPV,0.078125
+MCH,0.078125
+LYMPH#,0.078125
+IL-6,0.0625
+BASO#,0.046875
+EO%,0.046875
+SYS_BP,0.046875
+HCT,0.03125
+HGB,0.03125
+HR,0.03125
+DOA,0.03125
+Age,0.03125
+Shortness of breath,0.03125
+LYMPH%,0.015625
+WBC,0.015625
+RDW-CV,0.015625
+MCHC,0.015625
+Shiver,0.015625
+MCV,0.015625
+EO#,0.015625
+MONO#,0.015625
+Rhinorrhoea,0.015625
+NEUT%,0.015625
+DIAS_BP,0.015625
+Fatigue,0.015625
+RBC,0.0
+Diarrhoea,0.0
+CRP,0.0
+Sore throat,0.0
+Chills,0.0
+Palpitation,0.0
+Fever,0.0
+Fever_class,0.0
+Cough,0.0
+Expectoration,0.0
+BASO%,0.0
+Nausea,0.0
+Headache,0.0
+Muscle ache,0.0
+MONO%,0.0
+Gender,0.0
+Abdominal pain,0.0
+NEUT#,0.0
+Vomiting,0.0
